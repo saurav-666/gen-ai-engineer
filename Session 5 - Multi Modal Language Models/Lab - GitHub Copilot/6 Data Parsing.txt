@@ -1,0 +1,45 @@
+Model	Tokens	PPM	Price
+GPT-4 Turbo - gpt-4-turbo-2024-04-09, input 	389093477	18	7003.68
+GPT-4 Turbo - gpt-4-turbo-2024-04-09, output 	860213452	25	21505.34
+GPT-4 Turbo - gpt-4-0125-preview, input 	552946730	59	32623.86
+GPT-4 Turbo - gpt-4-0125-preview, output 	448552781	41	18390.66
+GPT-4 Turbo - gpt-4-1106-preview, input 	309155374	33	10202.13
+GPT-4 Turbo - gpt-4-1106-preview, output 	870009064	26	22620.24
+GPT-4 Turbo - gpt-4-1106-vision-preview, input 	180936847	33	5970.92
+GPT-4 Turbo - gpt-4-1106-vision-preview, output 	1356571	58	78.68
+GPT-4 - gpt-4, input 	871373753	37	32240.83
+GPT-4 - gpt-4, output 	981464017	40	39258.56
+GPT-4 - gpt-4-32k, input 	773250449	45	34796.27
+GPT-4 - gpt-4-32k, output 	943955879	27	25486.81
+GPT-3.5 Turbo - gpt-3.5-turbo-0125, input 	256010777	41	10496.44
+GPT-3.5 Turbo - gpt-3.5-turbo-0125, output 	589882103	20	11797.64
+GPT-3.5 Turbo - gpt-3.5-turbo-1106, input 	840322596	43	36133.87
+GPT-3.5 Turbo - gpt-3.5-turbo-1106, output 	528276362	16	8452.42
+GPT-3.5 Turbo - gpt-3.5-turbo-instruct, input 	891761997	50	44588.1
+GPT-3.5 Turbo - gpt-3.5-turbo-instruct, output 	477582486	53	25311.87
+GPT-3.5 Turbo - gpt-3.5-turbo-0301, input 	690953925	30	20728.62
+GPT-3.5 Turbo - gpt-3.5-turbo-0301, output 	760657755	22	16734.47
+GPT-3.5 Turbo - gpt-3.5-turbo-0613, input 	902103446	60	54126.21
+GPT-3.5 Turbo - gpt-3.5-turbo-0613, output 	745678365	44	32809.85
+GPT-3.5 Turbo - gpt-3.5-turbo-16k-0613, input 	735600886	42	30895.24
+GPT-3.5 Turbo - gpt-3.5-turbo-16k-0613, output 	500507124	25	12512.68
+Assistants API - code interpreter 	320689863	46	14751.73
+Fine-tuning models - gpt-4 training 	513034855	56	28729.95
+Fine-tuning models - gpt-4 usage, input 	139425006	37	5158.73
+Fine-tuning models - gpt-4 usage, output 	982441547	8	7859.53
+Fine-tuning models - gpt-3.5-turbo training 	305290517	55	16790.98
+Fine-tuning models - gpt-3.5-turbo usage, input 	331351148	11	3644.86
+Fine-tuning models - gpt-3.5-turbo usage, output 	945127814	37	34969.73
+Embedding models - text-embedding-3-small 	297687725	28	8335.26
+Embedding models - text-embedding-3-large 	522993140	56	29287.62
+Embedding models - ada v2 	92454495	54	4992.54
+Base models - davinci-002 	708423619	56	39671.72
+Image models - DALL-E 3, Standard, 1024x1024 	439510116	39	17140.89
+Image models - DALL-E 3, Standard, 1024x1792, 1792x1024 	690841487	54	37305.44
+Image models - DALL-E 3, HD, 1024x1024 	375339918	10	3753.4
+Image models - DALL-E 3, HD, 1024x1792, 1792x1024 	588218890	23	13529.03
+Image models - DALL-E 2, 1024x1024 	624039980	40	24961.6
+Image models - DALL-E 2, 512x512 	479830599	6	2878.98
+Image models - DALL-E 2, 256x256 	589879892	37	21825.56
+Audio models - Whisper 	480962769	36	17314.66
+Audio models - TTS 	24860239	27	671.23
