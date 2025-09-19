@@ -1,0 +1,73 @@
+.chat-output-normal {
+    width: 600px; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+    border: 2px solid #000000; /* Black border */
+    padding: 10px; /* Add some padding */
+    margin: 20px; /* Left align the box horizontally */
+    overflow-y: auto; /* Add vertical scroll if content overflows */
+    background-color: #FFFFFF; /* White background color */
+    color: #000000; /* Black text color */
+    font-family: Arial, sans-serif; /* Use a generic sans-serif font */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+.chat-output {
+    width: 600px; /* Adjust the width as needed */
+    height: 300px; /* Adjust the height as needed */
+    border: 2px solid #8B4513; /* Dark brown border */
+    padding: 10px; /* Add some padding */
+    margin: 20px; /* Left align the box horizontally */
+    overflow-y: auto; /* Add vertical scroll if content overflows */
+    background-color: #F5DEB3; /* Wheat background color */
+    color: #000000; /* Black text color */
+    font-family: 'Pirata One', cursive; /* Pirate-themed font */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+#user-input {
+    width: 50%; /* Adjust the width as needed */
+    padding: 10px; /* Add some padding */
+    margin-bottom: 10px; /* Add some space below the input */
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+#send-button {
+    padding: 10px 20px; /* Add some padding */
+    font-size: 16px; /* Adjust the font size as needed */
+    font-family: fantasy; /* Use a fantasy font for the button */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the left */
+}
+
+.chat-container {
+    display: flex;
+    align-items: flex-start; /* Align items to the top */
+}
+
+.chat-container img {
+    margin-left: 20px; /* Add some space between the chat output and the image */
+    height: 500px; /* Adjust the height as needed */
+}
+
+.invisible {
+    visibility: hidden; /* Start with the image hidden */
+}
+
+.visible {
+    visibility: visible; /* Make the image visible */
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+
+
+/* Import the pirate-themed font */
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
